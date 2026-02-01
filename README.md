@@ -1,0 +1,1 @@
+This checkpoint is mainly about creating a responsive webpage for a fictional restaurant using Bootstrap and its grid system. The program contains a header, hero, menu, about us, contact us, and a footer section. 
