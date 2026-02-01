@@ -1,0 +1,14 @@
+*{
+    
+}
+.partie-droite{
+    position: absolute;
+    left: 70%;
+}
+.titlee{
+    position: absolute;
+    right: 50%;
+}
+footer a:hover {
+    color: green !important;
+}
